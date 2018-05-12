@@ -1,4 +1,8 @@
 _repo: Flute-and-Violin-and-other-Kentucky-Tales-and-Romances_50597
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50597-h/images/cover.jpg
 creator:
   author:
     agent_name: Allen, James Lane
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/869
     wikipedia: http://en.wikipedia.org/wiki/James_Lane_Allen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50597#Flute-and-Violin-and-other-Kentucky-Tales-and-Romances
 gutenberg_issued: '2015-12-02'
 gutenberg_type: Text
 identifiers:
